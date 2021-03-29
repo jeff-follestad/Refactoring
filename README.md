@@ -4,6 +4,8 @@
 The goal of this Challenge was to PROVIDE a Marketing Agency a codebase that follows accessibility standards SO THAT the Horiseon site is optimized for search engines.
 
 ## Outcome
+The site's links all function correctly; CSS selectors and properties are consolidated and organized to follow semantic structure; the site's CSS file is properly commented.
+
 * As a result of the updated codebase, the HORISEON webpage now meets accessibility standards.
 
 * WHEN one views the source code, THEN they find semantic HTML elements.
@@ -15,8 +17,6 @@ The goal of this Challenge was to PROVIDE a Marketing Agency a codebase that fol
 * WHEN one views the heading attributes, THEN they fall in sequential order.
 
 * WHEN one views the title element, THEN they find a concise, descriptive title.
-
-The site's links all function correctly; CSS selectors and properties are consolidated and organized to follow semantic structure; the site's CSS file is properly commented.
 
 ## Website
 https://jeff-follestad.github.io/Refactoring/
