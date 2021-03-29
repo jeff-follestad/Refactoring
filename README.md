@@ -1,5 +1,5 @@
 # Refactoring
-The goal of this Chellenge was to PROVIDE a Marketing Agency a codebase that follows accessibility standards
+The goal of this Challenge was to PROVIDE a Marketing Agency a codebase that follows accessibility standards
 SO THAT the Horiseon site is optimized for search engines
 
 As a result of the updated codebase,
